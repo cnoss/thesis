@@ -11,9 +11,9 @@ Das Ziel dieses Projekts ist es, das Potenzial von KI-Tools im Kurs Screendesign
 ## Aufgabenstellung
 
  __Die Aufgaben umfassen:__
-- Untersuchung der KI-Tools im Kurs Screendesign die bereits genutzt werden
-- Testen welche existierenden Tools nützlich für Studenten sein könnten, die Screendesign belegen
+- Recherche von KI-Tools die nützlich im Screendesign Kontext sind
 - Tatsächliches Testen der Tools in einem passenden Kontext
+- Analyse der Prozesse und Ergebnisse
 
 
 ## Lösungsansätze
@@ -47,4 +47,4 @@ Als ich über potentielle Praxisprojekt Ideen nachgedacht habe, beschäftigte ic
 | 4. Monat: | Das Alte Abschlussprojekt und den Arbeitsprozess mit der neuen Variante Vergleichen und analysieren. Fazit darausziehen. 
 
 ## Arbeitsergebnis
-Am Ende der Arbeit sollen passende KI-Tools rausgesucht und gestestet worden sein, welche Stundenten im Kurs Screendesign helfen. Die Ergebnisse sollen zeigen können an welchen Stellen die Tools gute verwendung finden und wo nicht. Es soll sich außerdem herausstellen wie man konkret diese Tools in das Modul integrieren könnte.
+Am Ende der Arbeit sollen passende KI-Tools rausgesucht und gestestet worden sein, welche Stundenten im Kurs Screendesign helfen. Die Ergebnisse sollen zeigen können an welchen Stellen des Double Diamond Designprozesses die Tools gute verwendung finden und wo nicht. 
