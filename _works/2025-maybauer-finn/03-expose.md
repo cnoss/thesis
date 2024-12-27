@@ -17,7 +17,7 @@ Das Projekt ist in mehrere teilweise überlappende Phasen unterteilt, welche die
 1. **Analyse und Vergleich von Maturity-Modellen**
    * Analyse der Anforderungen an Maturity-Modelle (Methode: Literaturanalyse)
    * Vorstellung und Vergleich ausgewählter Maturity-Modelle (Methode: Auer et al. (2023)[^a11y-maturity-modells] mit eigener Literaturanalyse)
-   * Lern-Erfahrung von anderen Anwender*innen (Methode: qualitative Interviews)
+   * Lern-Erfahrung von anderen Anwender\*innen (Methode: qualitative Expert\*innen-Interviews)
 2. **Anwendung: Messung der Maturity an einer Fokusgruppe**
    * Auswahl einer Fokusgruppe
    * Anwendung der Modelle auf die Fokusgruppe (Methode abhängig vom Modell: analytische Messung, qualitative Interviews, quantitative Befragung)
