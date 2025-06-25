@@ -3,11 +3,13 @@
 Die Nummerierungen sollen kein Ranking darstellen. 
 
 ## Titel
+GUT 3. Konzeption und Entwicklung von 3D-Exploded Views zur interaktiven Darstellung im Web
+Auch gut, Systembegriff ist gut 5. Webbasierte 3D-Exploded Views – Konzeption eines interaktiven (Visualisierungs-)systems
+
+
 1. Vom 3D Modell zur interaktiven Animation - Ein Leitfaden zum erstellen von 3D-Exploded Views im Web
 2. Interaktive Exploded Views im Web – Konzeption und Umsetzung einer 3D-basierten Visualisierung
-3. Konzeption und Entwicklung von 3D-Exploded Views zur interaktiven Darstellung im Web
 4. Interaktive 3D-Exploded Views im Web – Ein Leitfaden zur modularen Entwicklung und Integration
-5. Webbasierte 3D-Exploded Views – Konzeption eines interaktiven (Visualisierungs-)systems
 6. Wiederverwendbare 3D-Exploded Views im Web – Evaluierung und Umsetzung eines modularen Ansatzes
 7. Entwicklung eines Frameworks für interaktive 3D-Exploded Views im Web
 8. Interaktive 3D-Exploded Views im Web – Von der GLTF-Datei zur Websitekomponente
@@ -16,11 +18,14 @@ Die Nummerierungen sollen kein Ranking darstellen.
 
 Leitfaden? -> Ich generiere ja mit dem Code die Animation. Ist framework passender oder zu hoch gegriffen?
 
-## Forschungsfragen
+## Forschungsfragen --> Nur die 1., die 2. und 4. optional
 1. Wie lassen sich Exploded Views im Web modular und wiederverwendbar umsetzen und welche Best Practices sowie Herausforderungen existieren dabei?
-2. Welche Vorteile und Möglichkeiten/ ?Auswirkungen? bieten 3D Modelle und Exploded Views im Hinblick auf Storytelling und User Expirience
-4. Wie lassen sich Interaktivität und Animation (z.B. Scroll- oder Hover-Effekte) integrieren?
-5. Wie beinflussen 3D-Exploded Views die Websiteperformance und Nutzererfahrung?
+
+2. Welche Vorteile und Möglichkeiten bieten 3D Modelle und Exploded Views im Hinblick auf Storytelling?
+4. Wie lassen sich Interaktivität und Animation (z.B. Scroll- oder Hover-Effekte) integrieren? --> Geschwindigkeit, easing (Bewegungskurven), 
+
+
+(5. Wie beinflussen 3D-Exploded Views die Websiteperformance und Nutzererfahrung?)
 
 (
 2. Welche Tools und Frameworks sind am besten geeignet, um interaktive Exploded Views effizient umzusetzen?
