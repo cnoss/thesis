@@ -1,17 +1,23 @@
-# Titel und Forschungsfrage
+# Titel und Forschungsfragen
+[Titel]()
+[Forschungsfragen]()
 
-Die Nummerierungen sollen kein Ranking darstellen. 
+
 
 ## Titel
 
-FINAL: Konzeption und Entwicklung eines interaktiven (Visualisierungs-)systems für Exploded Views im web.
+>Finaler Titel: Konzeption und Entwicklung eines interaktiven (Visualisierungs-)Systems für Exploded Views im Web.
 
-
+### Finale Auswahl/Feedback
+---
 3. Konzeption und Entwicklung von 3D-Exploded Views zur interaktiven Darstellung im Web
---> GUT
+   - GUT
 5. Webbasierte 3D-Exploded Views – Konzeption eines interaktiven (Visualisierungs-)systems
--->Auch gut, Systembegriff ist gut 
+   - Auch gut, Systembegriff ist gut 
 
+
+### Zwischenergebnisse
+---
 1. Vom 3D Modell zur interaktiven Animation - Ein Leitfaden zum erstellen von 3D-Exploded Views im Web
 2. Interaktive Exploded Views im Web – Konzeption und Umsetzung einer 3D-basierten Visualisierung
 4. Interaktive 3D-Exploded Views im Web – Ein Leitfaden zur modularen Entwicklung und Integration
@@ -23,12 +29,14 @@ FINAL: Konzeption und Entwicklung eines interaktiven (Visualisierungs-)systems f
 
 Leitfaden? -> Ich generiere ja mit dem Code die Animation. Ist framework passender oder zu hoch gegriffen?
 
-## Forschungsfragen --> Nur die 1., die 2. und 4. optional
+## Forschungsfragen --> 1., 2. und optional die 4.
 1. Wie lassen sich Exploded Views im Web modular und wiederverwendbar umsetzen und welche Best Practices sowie Herausforderungen existieren dabei?
 
 2. Welche Vorteile und Möglichkeiten bieten 3D Modelle und Exploded Views im Hinblick auf Storytelling?
+
 4. Wie lassen sich Interaktivität und Animation (z.B. Scroll- oder Hover-Effekte) integrieren? --> Geschwindigkeit, easing (Bewegungskurven), 
 
+---
 
 (5. Wie beinflussen 3D-Exploded Views die Websiteperformance und Nutzererfahrung?)
 
