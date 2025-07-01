@@ -3,9 +3,14 @@
 Die Nummerierungen sollen kein Ranking darstellen. 
 
 ## Titel
-GUT 3. Konzeption und Entwicklung von 3D-Exploded Views zur interaktiven Darstellung im Web
-Auch gut, Systembegriff ist gut 5. Webbasierte 3D-Exploded Views – Konzeption eines interaktiven (Visualisierungs-)systems
 
+FINAL: Konzeption und Entwicklung eines interaktiven (Visualisierungs-)systems für Exploded Views im web.
+
+
+3. Konzeption und Entwicklung von 3D-Exploded Views zur interaktiven Darstellung im Web
+--> GUT
+5. Webbasierte 3D-Exploded Views – Konzeption eines interaktiven (Visualisierungs-)systems
+-->Auch gut, Systembegriff ist gut 
 
 1. Vom 3D Modell zur interaktiven Animation - Ein Leitfaden zum erstellen von 3D-Exploded Views im Web
 2. Interaktive Exploded Views im Web – Konzeption und Umsetzung einer 3D-basierten Visualisierung
