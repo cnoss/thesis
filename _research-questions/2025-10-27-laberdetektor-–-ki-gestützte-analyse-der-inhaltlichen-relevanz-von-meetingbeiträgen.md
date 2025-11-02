@@ -40,7 +40,4 @@ Das Projekt verbindet Informatik mit Kommunikationspsychologie und Linguistik. N
 
 **Schlussfolgerung:**
 Der *Laberdetektor* ist ein humorvoll benannter, aber ernst gemeinter Versuch, Meetings besser zu verstehen. Das Projekt bietet die Chance, ein gesellschaftlich relevantes, interdisziplinäres Thema mit modernen KI-Methoden zu verbinden – und vielleicht sogar dazu beizutragen, künftige Meetings effizienter und gehaltvoller zu gestalten.
-
----
-
-Soll ich dir daraus auch eine **offizielle Ausschreibungsversion** machen (z. B. für eine Uni-Webseite oder ein internes Betreuungsportal)?
+<br><br><br>

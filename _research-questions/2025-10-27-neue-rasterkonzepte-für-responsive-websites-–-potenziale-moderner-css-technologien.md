@@ -40,7 +40,4 @@ Das Thema liegt an der Schnittstelle von Technik und Gestaltung. Es eignet sich 
 
 **Schlussfolgerung:**
 Die Arbeit bietet eine hervorragende Gelegenheit, den aktuellen Stand des Webdesigns kritisch zu beleuchten und mit innovativen Layout-Konzepten weiterzudenken. Sie verbindet technische Präzision mit gestalterischer Kreativität – und kann so einen Beitrag dazu leisten, das Web der nächsten Generation nicht nur funktional, sondern auch ästhetisch weiterzuentwickeln.
-
----
-
-Möchtest du, dass ich daraus noch eine **kürzere Ausschreibungsversion** (z. B. für eine Projektbörse oder Institutswebsite) formuliere?
+<br><br><br>
