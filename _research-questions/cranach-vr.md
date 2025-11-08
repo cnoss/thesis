@@ -2,7 +2,7 @@
 title: Cranach Meisterwerke via WebVR erlebbar machen
 keywords: Interactiondesign, WebDesign, Frontend Dev
 layout: work
-status: proposal
+status: unpublished
 datum: 07.11.2023
 ---
 

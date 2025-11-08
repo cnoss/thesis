@@ -27,6 +27,6 @@
   }
 
   .page{
-    margin-bottom: var(--size-xl);
+    margin-bottom: calc(var(--size-xl) *2);
   }
 }

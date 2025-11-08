@@ -2,7 +2,7 @@
 title: Cranach Meisterwerke als digitales Coffee Table Book
 keywords: Screendesign, Interactiondesign, WebDesign, Frontend Dev
 layout: work
-status: proposal
+status: unpublished
 datum: 07.11.2023
 ---
 
