@@ -3,7 +3,7 @@
 ## 10 Titel-Vorschläge
 
 1. **Dezentrales Orchester: Explorative Entwicklung eines WebRTC-basierten Peer-to-Peer-Systems zur Live-Orchestrierung von audiovisuellen Erlebnissen**
-2. **Node-basierte Sensorchoreographie: Entwicklung eines visuellen Programmier-Interfaces für kollaborative Smartphone-Performances**
+2. **Live-Sensorchoreographie: Entwicklung eines visuellen Programmier-Interfaces für die Live-Orchestrierung kollaborativer Smartphone-Performances**
 3. **Von Sensoren zum Sound: Gestaltung eines Real-time Mapping-Systems für verteilte mobile Geräte als Musikinstrumente**
 4. **Das Smartphone als Instrument: Untersuchung niedrigschwelliger Zugänge zum kollaborativen Musizieren durch browser-native Sensor-Integration**
 5. **Bidirektionale Partizipation: Konzeption eines Browser-basierten Systems zur haptisch-visuell-auditiven Publikumsintegration in Live-Performances**
@@ -60,7 +60,7 @@ Wie kann eine benutzerfreundliche Oberfläche gestaltet werden, die es Performer
 - Wie kann einem Performer das Mapping von Sensordaten zu Klang- und Bildparametern erleichtert werden (z.B. durch Drag-and-Drop, Presets, visuelle Hilfen)?
 - Welche Rolle spielen Voreinstellungen und anpassbare Templates, um den Einstieg in die Nutzung des Systems zu erleichtern?
 - Wie lässt sich die Bidirektionalität der Kommunikation für Performer nutzbar machen, um audiovisuelles Feedback an die Peers zu senden oder deren Beiträge in Echtzeit zu modifizieren?
-- Gibt es eine Möglichkeit für Performer, für die Performer variable Interfaces zu erstellen, um diese an unterschiedliche Performance-Szenarien anzupassen? Beispielsweise, einem Nutzer, der ein Klavier-Layout auf seinem Smartphone angezeigt bekommt, während ein anderer Nutzer ein XY-Pad sieht.
+- Gibt es eine Möglichkeit für Performer, für die Peers variable Interfaces zu erstellen, um diese an unterschiedliche Performance-Szenarien anzupassen? Beispielsweise, einem Nutzer, der ein Klavier-Layout auf seinem Smartphone angezeigt bekommt, während ein anderer Nutzer ein XY-Pad sieht.
 
 ### Frage 4: Partizipative Performance und Publikumsrolle
 
