@@ -3,7 +3,7 @@
 ## 10 Titel-Vorschläge
 
 1. **Dezentrales Orchester: Explorative Entwicklung eines WebRTC-basierten Peer-to-Peer-Systems zur Live-Orchestrierung von audiovisuellen Erlebnissen**
-2. **Live-Sensorchoreographie: Entwicklung eines visuellen Programmier-Interfaces für die Live-Orchestrierung kollaborativer Smartphone-Performances**
+2. **Live-Sensorchoreographie: Entwicklung eines visuellen Programmier-Interfaces für die Live-Orchestrierung kollaborativer audiovisueller Smartphone-Performances**
 3. **Von Sensoren zum Sound: Gestaltung eines Real-time Mapping-Systems für verteilte mobile Geräte als Musikinstrumente**
 4. **Das Smartphone als Instrument: Untersuchung niedrigschwelliger Zugänge zum kollaborativen Musizieren durch browser-native Sensor-Integration**
 5. **Bidirektionale Partizipation: Konzeption eines Browser-basierten Systems zur haptisch-visuell-auditiven Publikumsintegration in Live-Performances**

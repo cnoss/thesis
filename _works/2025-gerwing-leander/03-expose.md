@@ -1,6 +1,6 @@
 # Exposé: Masterarbeit von Leander Gerwing
 
-## Arbeitstitel: Live-Sensorchoreographie: Entwicklung eines visuellen Programmier-Interfaces für die Live-Orchestrierung kollaborativer Smartphone-Performances
+## Arbeitstitel: Live-Sensorchoreographie: Entwicklung eines visuellen Programmier-Interfaces für die Live-Orchestrierung kollaborativer audiovisueller Smartphone-Performances
 
 ### Problemfeld und Kontext
 
