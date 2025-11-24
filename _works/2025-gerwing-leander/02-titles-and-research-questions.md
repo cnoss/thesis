@@ -50,7 +50,7 @@ Was für Möglichkeiten gibt es, Daten von mehreren verteilten Endgeräten zu sa
 ### Frage 3: Gestaltung einer Nutzeroberfläche zur Live-Steuerung audiovisueller Inhalte
 
 **Hauptfrage:**
-Wie kann eine benutzerfreundliche Oberfläche gestaltet werden, die es Performern ermöglicht, audiovisuelle Inhalte in Echtzeit auf Basis von Sensordaten von mehreren Endgeräten zu orchestrieren?
+Wie kann eine leicht zugängliche Oberfläche gestaltet werden, die es Performern ermöglicht, audiovisuelle Inhalte in Echtzeit auf Basis von Sensordaten von mehreren Endgeräten zu orchestrieren?
 
 **Teilfragen:**
 - Wie kann die Komplexität der Steuerung mehrerer Endgeräte übersichtlich und intuitiv in einer Oberfläche abgebildet werden?

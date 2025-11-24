@@ -50,7 +50,7 @@ verteilten Systems zusammenführt.
 ### Forschungsfrage (provisorisch)
 
 Die Forschungsfrage, die dieses Projekt leiten soll, lautet:
-**Wie kann eine benutzerfreundliche Oberfläche gestaltet werden, die es Performern ermöglicht, audiovisuelle Inhalte in
+**Wie kann eine leicht zugängliche Oberfläche gestaltet werden, die es Performern ermöglicht, audiovisuelle Inhalte in
 Echtzeit auf Basis von Sensordaten von mehreren Endgeräten zu orchestrieren?**
 
 Teil der Beantwortung dieser Frage sind unter anderem folgende Unterfragen:
