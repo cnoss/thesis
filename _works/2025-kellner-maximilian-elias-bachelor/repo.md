@@ -1,3 +1,4 @@
-[NPM-Package](https://github.com/MaximilianKellner/exploded-view-web-package)
+[NPM-Package](https://www.npmjs.com/package/explo.js)
 
-[Editor](https://github.com/MaximilianKellner/exploded-view-web-editor)
+[Package](https://github.com/MaximilianKellner/exploded-view-web-package)
+[Demo & Editor](https://github.com/MaximilianKellner/exploded-view-web-editor)
