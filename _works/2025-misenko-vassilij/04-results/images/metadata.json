@@ -1,0 +1,145 @@
+[
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-01-s.webp",
+    "metadata": {
+      "Title": "Trello-Board",
+      "Description": "Dieses Bild zeigt das Trello-Board, das zur Planung und Organisation der Bachelorarbeit verwendet wurde. Es veranschaulicht den Fortschritt der gesamten Arbeit von der ersten Strukturierung über das Schreiben der einzelnen Kapitel bis hin zur Umsetzung des Prototyps.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt das Trello-Board, das zur Planung und Organisation der Bachelorarbeit verwendet wurde. Es veranschaulicht den Fortschritt der gesamten Arbeit von der ersten Strukturierung über das Schreiben der einzelnen Kapitel bis hin zur Umsetzung des Prototyps.",
+      "Headline": "Trello-Board",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-02-s.webp",
+    "metadata": {
+      "Title": "Trello-Board",
+      "Description": "Dieses Bild zeigt das in Figma erstellte Styleguide für die Webseite. Es enthält Vorgaben zu Schriftarten, Schriftgrößen, Schriftschnitten und Farben, die anschließend für die Gestaltung der Website verwendet wurden.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt das in Figma erstellte Styleguide für die Webseite. Es enthält Vorgaben zu Schriftarten, Schriftgrößen, Schriftschnitten und Farben, die anschließend für die Gestaltung der Website verwendet wurden.",
+      "Headline": "Trello-Board",
+      "ImageWidth": 1600,
+      "ImageHeight": 473,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-03-s.webp",
+    "metadata": {
+      "Title": "Prototypische Gestaltungen",
+      "Description": "Dieses Bild zeigt in Figma entworfene prototypische Gestaltungen für verschiedene Komponenten der Website. Dargestellt sind eine Card , eine Umsetzung der „North by Northwest“-Sequenz sowie eine Bento-Box-Card als allgemeine Infobox.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt in Figma entworfene prototypische Gestaltungen für verschiedene Komponenten der Website. Dargestellt sind eine Card , eine Umsetzung der „North by Northwest“-Sequenz sowie eine Bento-Box-Card als allgemeine Infobox.",
+      "Headline": "Prototypische Gestaltungen",
+      "ImageWidth": 1600,
+      "ImageHeight": 442,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-04-s.webp",
+    "metadata": {
+      "Title": "Mockups des Prototyps",
+      "Description": " Dieses Bild zeigt die in Figma erstellten allgemeinen Mockups für alle Seiten des Prototyps. Sie dienen als visuelle Grundlage für den strukturellen und gestalterischen Aufbau der finalen Website.",
+      "Rights": "Vassilij Misenko",
+      "Caption": " Dieses Bild zeigt die in Figma erstellten allgemeinen Mockups für alle Seiten des Prototyps. Sie dienen als visuelle Grundlage für den strukturellen und gestalterischen Aufbau der finalen Website.",
+      "Headline": "Mockups des Prototyps",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-05-s.webp",
+    "metadata": {
+      "Title": "Entwicklungsumgebung",
+      "Description": "Dieses Bild zeigt die lokale Entwicklungsumgebung in Visual Studio Code. Sichtbar ist der HTML- und JavaScript-Code, der für die Umsetzung des Prototyps erstellt wurde.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt die lokale Entwicklungsumgebung in Visual Studio Code. Sichtbar ist der HTML- und JavaScript-Code, der für die Umsetzung des Prototyps erstellt wurde.",
+      "Headline": "Entwicklungsumgebung",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-06-s.webp",
+    "metadata": {
+      "Title": "Test der Bildschirmgröße",
+      "Description": "Dieses Bild zeigt das lokale Testen des Prototyps im Browser. Durch manuelles Anpassen der Bildschirmgröße wird überprüft, ob die lokale Ausführung manuell angepasst werden kann.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt das lokale Testen des Prototyps im Browser. Durch manuelles Anpassen der Bildschirmgröße wird überprüft, ob die lokale Ausführung manuell angepasst werden kann.",
+      "Headline": "Test der Bildschirmgröße",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-07-s.webp",
+    "metadata": {
+      "Title": "Animierte Titelschrift",
+      "Description": "Dieses Bild zeigt die Landing Page des Prototyps während des Tests der Schriftanimation. Es veranschaulicht, wie sich die Typografie beim Laden der Seite dynamisch bewegt.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt die Landing Page des Prototyps während des Tests der Schriftanimation. Es veranschaulicht, wie sich die Typografie beim Laden der Seite dynamisch bewegt.",
+      "Headline": "Animierte Titelschrift",
+      "ImageWidth": 1600,
+      "ImageHeight": 1200,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-08-s.webp",
+    "metadata": {
+      "Title": "Prototypische Umsetzung",
+      "Description": "Dieses Bild zeigt ein Beispiel für die Umsetzung typografischer Prinzipien im Web. Durch die Bewegung der Maus wird eine interaktive Schriftanimation ausgelöst, die auf den gefundenen filmischen Gestaltungsansätzen basiert.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt ein Beispiel für die Umsetzung typografischer Prinzipien im Web. Durch die Bewegung der Maus wird eine interaktive Schriftanimation ausgelöst, die auf den gefundenen filmischen Gestaltungsansätzen basiert.",
+      "Headline": "Prototypische Umsetzung",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-09-s.webp",
+    "metadata": {
+      "Title": "Umsetzung einer Titelsequenz",
+      "Description": "Dieses Bild zeigt die konkrete Umsetzung der Titelsequenz von North by Northwest im Web. Die typografische Animation wird im Browser betrachtet und orientiert sich gestalterisch an der filmischen Vorlage.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt die konkrete Umsetzung der Titelsequenz von North by Northwest im Web. Die typografische Animation wird im Browser betrachtet und orientiert sich gestalterisch an der filmischen Vorlage.",
+      "Headline": "Umsetzung einer Titelsequenz",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-10-s.webp",
+    "metadata": {
+      "Title": "Typografie als Körper",
+      "Description": "Dieses Bild zeigt eine weitere Umsetzung filmischer Typografie im Web. Der Text bewegt sich dabei als ein zusammenhängender Körper, der die Form eines Drachens annimmt und veranschaulicht so kreative Animationsmöglichkeiten.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt eine weitere Umsetzung filmischer Typografie im Web. Der Text bewegt sich dabei als ein zusammenhängender Körper, der die Form eines Drachens annimmt und veranschaulicht so kreative Animationsmöglichkeiten.",
+      "Headline": "Typografie als Körper",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-vassilij-misenko-2025-07-16-11-s.webp",
+    "metadata": {
+      "Title": "Gedruckte Bachelorarbeit",
+      "Description": "Dieses Bild zeigt ein Foto der gedruckten Bachelorarbeit als Abschluss des Projekts.",
+      "Rights": "Vassilij Misenko",
+      "Caption": "Dieses Bild zeigt ein Foto der gedruckten Bachelorarbeit als Abschluss des Projekts.",
+      "Headline": "Gedruckte Bachelorarbeit",
+      "ImageWidth": 1600,
+      "ImageHeight": 1200,
+      "Orientation": "landscape"
+    }
+  }
+]

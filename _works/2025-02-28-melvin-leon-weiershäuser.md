@@ -6,8 +6,8 @@ date: 2025-02-28
 slideshow: false
 research-diary: false
 type: Masterarbeit
-status: in-evaluation
-visibility: unpublished
+status: finished
+visibility: published
 keywords: Barrierefreie Authentifizierung, Passkeys vs. Passwort, Digitale
   Barrierefreiheit, Single-Sign-On (SSO) Accessibility
 main-examiner: false

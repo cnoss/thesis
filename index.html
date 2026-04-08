@@ -17,15 +17,15 @@ class: grid
   {{ content }}
 </section>
 
-<section class="state-of-work">
+<!--section class="state-of-work">
   <h2><i class="icofont-chart-pie-alt is-inline"></i>Meine aktuelle Auslastung</h2>
   {% capture content %}{% include state-of-work.html %}{% endcapture %}
   {{ content | markdownify }}
-</section>
+</section-->
 
 <section class="section" style="margin-top: 3em; ">
-  <h2><i class="icofont-direction-sign  is-inline"></i>Neue Spielregeln ab dem Sommersemester 2024</h2>
-  {% capture content %}{% include shift-2024.html %}{% endcapture %}
+  <h2><i class="icofont-direction-sign  is-inline"></i>Welche Art von Arbeiten werden von mir betreut?</h2>
+  {% capture content %}{% include intro-works.html %}{% endcapture %}
   {{ content | markdownify }}
 </section>
 

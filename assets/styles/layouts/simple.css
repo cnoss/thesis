@@ -3,7 +3,7 @@
 .simple {
   table {
     margin-top: var(--size-l);
-    margin-bottom: var(--size-xl);
+    margin-bottom: var(--size-l);
 
     th {
       padding-bottom: var(--size-s);
@@ -18,12 +18,15 @@
   }
 
   h3 {
+    margin-top: var(--size-xxl);
+
+
     i {
       margin-right: var(--size-xs);
     }
   }
 
   .page{
-    margin-bottom: var(--size-xl);
+    margin-bottom: calc(var(--size-xl) *2);
   }
 }

@@ -10,4 +10,8 @@
   p {
     margin-bottom: var(--size-m);
   }
+
+  main{
+    margin-bottom: var(--size-xl);
+  }
 }

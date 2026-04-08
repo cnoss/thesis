@@ -11,7 +11,7 @@ slideshow: true
 final-presentation: 8-Z2Ax1KE24
 research-diary: false
 type: Praxisprojekt
-status: in-evaluation
+status: finished
 visibility: published
 keywords: Barrierefreiheit im Web, Accessibility-Analyse, Chrome Extension,
   automatisierte Fehlererkennung

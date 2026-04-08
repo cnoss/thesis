@@ -1,0 +1,145 @@
+[
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-04-18-01-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-04-18-01",
+      "Description": "Haar-Cascade schneidet bei den Stichproben-Tests zu schlecht ab. Aufgrund zu vieler False-Positives wird das Modell nicht weiter in der Arbeit getestet.",
+      "Rights": "Ursprungs Bild aus https://lucascranach.org/de/DE_SKD_GG1906BB/",
+      "Caption": "Haar-Cascade schneidet bei den Stichproben-Tests zu schlecht ab. Aufgrund zu vieler False-Positives wird das Modell nicht weiter in der Arbeit getestet.",
+      "Headline": "photo-log-niklas-mehlem-2025-04-18-01",
+      "ImageWidth": 870,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-04-18-02-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-04-18-02",
+      "Description": "Test, ob Haar-Cascade bessere Ergebnisse erzielt, wenn ein Bild mit höherer Auflösung verwendet wird. Die Bereiche der erkannten Gesichter wurden kaum bis gar nicht genauer, während die Anzahl an False-Positives stark zunahm.",
+      "Rights": "Ursprungs Bild aus https://lucascranach.org/de/DE_SKD_GG1906BB/",
+      "Caption": "Test, ob Haar-Cascade bessere Ergebnisse erzielt, wenn ein Bild mit höherer Auflösung verwendet wird. Die Bereiche der erkannten Gesichter wurden kaum bis gar nicht genauer, während die Anzahl an False-Positives stark zunahm.",
+      "Headline": "photo-log-niklas-mehlem-2025-04-18-02",
+      "ImageWidth": 885,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-04-18-03-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-04-18-03",
+      "Description": "Ergebnis von dlib HOG beim Stichproben Tests für 1er Portraits. Das Modell hat scheinbar Schwierigkeiten große Gesichter zu erkennen. ",
+      "Rights": "Ursprungs Bild aus https://lucascranach.org/de/CH_SORW_1925-1b/",
+      "Caption": "Ergebnis von dlib HOG beim Stichproben Tests für 1er Portraits. Das Modell hat scheinbar Schwierigkeiten große Gesichter zu erkennen. ",
+      "Headline": "photo-log-niklas-mehlem-2025-04-18-03",
+      "ImageWidth": 1216,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-04-18-04-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-04-18-04",
+      "Description": "Ergebnis von dlib HOG beim Stichproben Test für 3er Portraits. Dlib HOG, welches zuvor gezeigt hat das es große Gesichter nicht oder nur schwer erkennen kann, scheint deutlich besser kleinere Gesichter zu erkennen. Es könnte sich also in spezifischen Kontexten besser eignen als andere Modelle.",
+      "Rights": "Ursprungs Bild aus https://lucascranach.org/de/DE_SKD_GG1906BB/",
+      "Caption": "Ergebnis von dlib HOG beim Stichproben Test für 3er Portraits. Dlib HOG, welches zuvor gezeigt hat das es große Gesichter nicht oder nur schwer erkennen kann, scheint deutlich besser kleinere Gesichter zu erkennen. Es könnte sich also in spezifischen Kontexten besser eignen als andere Modelle.",
+      "Headline": "photo-log-niklas-mehlem-2025-04-18-04",
+      "ImageWidth": 880,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-05-16-05-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-05-16-05",
+      "Description": "Bild bei dem caffe alle Bereiche markieren sollte von denen es denkt sie enthalten Gesichter. So sollte ein minimaler Grenzwert bestimmt werden, aber das Ergebnis ist zu Chaotisch so der Test mit einem Grenzwert von 0.10 Wiederholt wurde.",
+      "Rights": "Ursprungs Bild aus dem Cranach Digital Archive: https://lucascranach.org/de/DE_MdbKL_44/",
+      "Caption": "Bild bei dem caffe alle Bereiche markieren sollte von denen es denkt sie enthalten Gesichter. So sollte ein minimaler Grenzwert bestimmt werden, aber das Ergebnis ist zu Chaotisch so der Test mit einem Grenzwert von 0.10 Wiederholt wurde.",
+      "Headline": "photo-log-niklas-mehlem-2025-05-16-05",
+      "ImageWidth": 1204,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-05-16-06-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-05-16-06",
+      "Description": "Bild bei dem cnn alle Gesichter markieren sollte die es erkennt. Andere Modelle haben bei Tests ohne Confidence Grenzwert oft mindestens ein paar False-Positives. CNN ist relativ streng wodurch es aber auch in manchen Bildern keine Gesichter erkennt.",
+      "Rights": "Bild aus dem Cranach Digital Archive: https://lucascranach.org/de/DE_MdbKL_44/",
+      "Caption": "Bild bei dem cnn alle Gesichter markieren sollte die es erkennt. Andere Modelle haben bei Tests ohne Confidence Grenzwert oft mindestens ein paar False-Positives. CNN ist relativ streng wodurch es aber auch in manchen Bildern keine Gesichter erkennt.",
+      "Headline": "photo-log-niklas-mehlem-2025-05-16-06",
+      "ImageWidth": 1197,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-05-16-07-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-05-16-07",
+      "Description": "Bild aus den 'Confidence Tests' um einen geeigneten Grenzwert für caffe zu finden. Der Confidence Wert für das erkannte Gesicht ist niedriger als für manche False-Positives im Bild, was das bestimmen eines geeigneten Grenzwerts erschwert. ",
+      "Rights": "Ursprungsbild aus dem Cranach Digital Archive: https://lucascranach.org/de/DE_ND_ND001b/",
+      "Caption": "Bild aus den 'Confidence Tests' um einen geeigneten Grenzwert für caffe zu finden. Der Confidence Wert für das erkannte Gesicht ist niedriger als für manche False-Positives im Bild, was das bestimmen eines geeigneten Grenzwerts erschwert. ",
+      "Headline": "photo-log-niklas-mehlem-2025-05-16-07",
+      "ImageWidth": 712,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-05-16-08.PNG-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-05-16-08",
+      "Description": "Bild aus dem finalen Test durchlauf zur Bestimmung geeigneter Gesichtsmodelle. Wie zu sehen wurden zwei Gesichter jeweils von nur einem Modell markiert. Daran zeigt sich das nicht ein Modell allein geeignet ist und je nach Kontext ein möglichst passendes gewählt werden sollte.",
+      "Rights": "Ursprungsbild aus dem Cranach Digital Archive: https://lucascranach.org/de/DE_GNMN_Gm1352/",
+      "Caption": "Bild aus dem finalen Test durchlauf zur Bestimmung geeigneter Gesichtsmodelle. Wie zu sehen wurden zwei Gesichter jeweils von nur einem Modell markiert. Daran zeigt sich das nicht ein Modell allein geeignet ist und je nach Kontext ein möglichst passendes gewählt werden sollte.",
+      "Headline": "photo-log-niklas-mehlem-2025-05-16-08",
+      "ImageWidth": 1168,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-05-24-09-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-06-06-09",
+      "Description": "Aller erste Version des GUI des CranachDetektors, die Auswahl der Modelle muss an dieser Stelle noch implementiert werden. Die Erstellung eines GUI war eine der schwierigsten Teile der Entwicklung des Moduls. ",
+      "Rights": "Abgebildetes Gemäldes kommt aus dem Cranach Digital Archive: https://lucascranach.org/de/AT_KHM_GG6905/",
+      "Caption": "Aller erste Version des GUI des CranachDetektors, die Auswahl der Modelle muss an dieser Stelle noch implementiert werden. Die Erstellung eines GUI war eine der schwierigsten Teile der Entwicklung des Moduls. ",
+      "Headline": "photo-log-niklas-mehlem-2025-06-06-09",
+      "ImageWidth": 1189,
+      "ImageHeight": 1600,
+      "Orientation": "portrait"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-05-30-10-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-06-06-10",
+      "Description": "Finale Version des GUI des CranachDetektors. Aufgrund von Zeit Mangel muss das Design sehr simpel gehalten werden. ",
+      "Rights": "Gemälde aus dem Cranach Digital Archive: https://lucascranach.org/de/DE_SWK_6545/",
+      "Caption": "Finale Version des GUI des CranachDetektors. Aufgrund von Zeit Mangel muss das Design sehr simpel gehalten werden. ",
+      "Headline": "photo-log-niklas-mehlem-2025-06-06-10",
+      "ImageWidth": 1600,
+      "ImageHeight": 941,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-niklas-mehlem-2025-06-02-11-s.webp",
+    "metadata": {
+      "Title": "photo-log-niklas-mehlem-2025-06-06-11",
+      "Description": "Der Detektor verwirft nun Duplikate falls mehrere Modelle das selber Gesicht markieren. Dabei wird der kleinste aller markierten Bereiche behalten.",
+      "Rights": "Gemälde aus dem Cranach Digital Archive: https://lucascranach.org/de/DE_SWK_6545/",
+      "Caption": "Der Detektor verwirft nun Duplikate falls mehrere Modelle das selber Gesicht markieren. Dabei wird der kleinste aller markierten Bereiche behalten.",
+      "Headline": "photo-log-niklas-mehlem-2025-06-06-11",
+      "ImageWidth": 1600,
+      "ImageHeight": 937,
+      "Orientation": "landscape"
+    }
+  }
+]

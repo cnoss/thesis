@@ -6,8 +6,8 @@ date: 2025-02-03
 slideshow: false
 research-diary: false
 type: Praxisprojekt
-status: in-evaluation
-visibility: unpublished
+status: finished
+visibility: published
 keywords: Web, Development, KI
 main-examiner: true
 ---

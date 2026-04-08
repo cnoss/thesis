@@ -1,0 +1,112 @@
+[
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-01.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Dieses Oculus Quest VR-Headset wurde von der TH Köln bereitgestellt und diente während der Entwicklung des Prototyps dazu, die VR-Funktionalitäten zu testen.",
+      "Headline": "Oculus Quest VR-Headset",
+      "ImageWidth": 1600,
+      "ImageHeight": 739,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-02.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Das Roland E-09 Keyboard wurde während der Entwicklung des Prototyps dazu verwendet, die erforderlichen MIDI-Daten einzuspielen.",
+      "Headline": "Roland E-09",
+      "ImageWidth": 1600,
+      "ImageHeight": 739,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-03.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Der Arbeitsplatz, an dem die gesamte Bachelorarbeit entstanden ist.",
+      "Headline": "Schreibtisch mit Arbeitsmaterialien",
+      "ImageWidth": 1600,
+      "ImageHeight": 739,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-04.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Der Quintenzirkel lieferte die Grundlage zur Entwicklung des Visualisierungskonzepts.",
+      "Headline": "Quintenzirkel",
+      "ImageWidth": 1600,
+      "ImageHeight": 1589,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-05.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Die Transformation des Quintenzirkels zum Key Spanning Circle Of Thirds ermöglichte eine Farbzuordnung von Tönen, die harmonische Beziehungen abbildet.",
+      "Headline": "Überführung des Quintenzirkels zum Key Spanning Circle Of Thirds",
+      "ImageWidth": 1600,
+      "ImageHeight": 458,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-06.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Das Visualisierungskonzept angewendet an einer Oktave. Die Farbzuordnung bildet harmonische Beziehungen durch farbliche Ähnlichkeit ab.",
+      "Headline": "Visualisierungskonzept an einer Oktave",
+      "ImageWidth": 1600,
+      "ImageHeight": 1047,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-07.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Die Entwicklungsumgebung, in der der Prototyp entwickelt wurde. Verwendete Bibliotheken umfassen u.a. React, React Three Fiber und React Three XR.",
+      "Headline": "Visual Studio Code",
+      "ImageWidth": 1600,
+      "ImageHeight": 859,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-08.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Das Visualisierungskonzept umgesetzt in einer 3D-Umgebung. Alle Töne werden noch statisch dargestellt und reagieren nicht auf Tastendruck.",
+      "Headline": "Visualisierungskonzept im Prototyp",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-09.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Die Logik zur Verarbeitung der MIDI-Daten war essenziell, damit der Prototyp Töne dynamisch darstellen konnte.",
+      "Headline": "Aktivitätsdiagramm zur Verarbeitung von MIDI-Daten",
+      "ImageWidth": 1600,
+      "ImageHeight": 859,
+      "Orientation": "landscape"
+    }
+  },
+  {
+    "src": "images/photo-log-aaron-asgharzadeh-2025-07-11-10.jpg-s.webp",
+    "metadata": {
+      "Rights": "Aaron Asgharzadeh",
+      "Description": "Benutzeroberfläche des fertigen Prototyps zur Musikvisualisierung. Töne erscheinen dynamisch. Visualisiert wird der Akkord e-Moll.",
+      "Headline": "Prototyp: Musikvisualisierung",
+      "ImageWidth": 1600,
+      "ImageHeight": 900,
+      "Orientation": "landscape"
+    }
+  }
+]
