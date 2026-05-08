@@ -8,6 +8,7 @@ result-pdf: 2025-hollaender-christian/04-results/Masterarbeit-Hollaender-Christi
 result-website: https://smove.pyramine.de
 result-repo: https://gitlab.com/christian98-uni/masterarbeit
 slideshow: false
+final-presentation: ZSDSvE1_BEc
 research-diary: true
 type: Masterarbeit
 status: finished
