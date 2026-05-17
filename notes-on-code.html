@@ -1,39 +1,113 @@
 --- 
 
 layout: simple 
-title: Bewertung von Code Repositories
+title: Bewertung von Code und Repositories
 
 ---
 
-Bei der Bewertung von Projekten, die Code enthalten, schaue ich mir die unten aufgeführten Aspekte an. Diese Auflistung ist nicht abschließend, sondern dient als Anhaltspunkt.
 
-### Repo und Kooperation
+Bei der Bewertung von Webprojekten orientiere ich mich an den unten aufgeführten Aspekten. Die Liste ist nicht abschließend, sondern Anhaltspunkt. Stufe 1 gilt für Praxisprojekte und Abschlussarbeiten im Bachelor, Stufe 2 für Projekte und Abschlussarbeiten im Master. Stufe 2 baut auf Stufe 1 auf.
 
-- Repo enthält eine aussagekräftige ReadMe Datei.
-- [ADRs](https://adr.github.io) sind vorhanden, nachvollziehbar und fachlich angemessen
-- Commits haben sinnvolle Größe und Beschreibung
-- alle Projektteilnehmer haben Code beigesteuert
-- Nutzung von Issues zur Organisation
-- Nutzung eines sinnvollen Branching Konzepts
-- Pull Requests werden genutzt, sowie sinnvoll und verantwortungsvoll eingesetzt
-- ggf. Nutzung von Conventional Commits
-- ggf. Nutzung von Projects o.Ä.
+### Übergreifende Grundsätze
 
-### Code
+- Im Repository ist nur enthalten, was zur Sache gehört. Leere Pflichtabschnitte (etwa eine "Versionen"-Sektion ohne Versionen) gehören entfernt.
+- Geheimnisse wie API-Keys, Tokens und Zugangsdaten liegen niemals im Repository.
+- Drittanbietercode wird kenntlich gemacht und seine Verwendung begründet.
+- Die README beantwortet auf einen Blick: Was ist das, warum existiert es, wer hat es gebaut, wie bringe ich es bei mir zum Laufen.
 
-- Technologie, Sprachen, Architektur sind fachlich angemessen ausgewählt und die Auswahl ist begründet
-- Code ist sinnvoll strukturiert und nachvollziehbar
-- Drittanbietercode wird explizit gemacht und der Einsatz begründet
-- Code ist lokal ausführbar
-- Anwendung ist deployed und jenseits von localhost erreichbar
-- sinnvoller Einsatz von Modulen/ Komponenten, Klassen und Funktionen
-- Nutzung sinnvoller Bezeichnungen für Module/ Komponenten, Klassen, Funktionen, Variablen, etc.
-- keine Magic Numbers/ Words/ Urls
-- Code ist schlank und aufgeräumt
-- Code ist robust
-- Implementierung ist angemessen (kein Over- oder Underengineering)
 
-  
+### Stufe 1: Bachelor
+
+#### Kontext und Rahmen
+
+- Hochschulkontext ist im README erkennbar: Studiengang, Modul, Semester, Betreuung, Art der Arbeit
+- beteiligte Personen sind benannt, bei Teamarbeit sind die Beiträge nachvollziehbar
+- die Arbeit ist als Studienleistung kenntlich
+
+#### Repository und Kooperation
+
+- aussagekräftige README
+- sinnvolles Branching-Konzept
+- Commits in passender Größe und mit sprechender Beschreibung, gerne nach [Conventional Commits](https://www.conventionalcommits.org)
+- Issues werden zur Organisation der Arbeit eingesetzt, Commits referenzieren Issues, wo es passt
+- bei Teamarbeit committen alle Beteiligten, Pull Requests werden genutzt
+- [ADRs](https://adr.github.io) für die wesentlichen technischen Entscheidungen
+
+#### Lauffähigkeit und Reproduzierbarkeit beim Dritten
+
+- ein fachlich versierter Dritter kann das Projekt anhand der README lokal aufsetzen: Voraussetzungen, Installation, Start
+- notwendige Umgebungsvariablen sind dokumentiert, idealerweise in einer `.env.example`
+- Ssfern nötig, gibt es Beispieldaten oder Seed-Skripte
+- bei deployter Anwendung: erreichbare URL und kurzer Hinweis zur Umgebung
+
+#### Code-Qualität
+
+- sinnvolle Struktur in Modulen, Komponenten, Klassen, Funktionen
+- keine Magic Numbers, Magic Strings, Magic URLs
+- schlanker, aufgeräumter Code
+- Robustheit an den wichtigen Stellen (Fehlerbehandlung, Eingaben-Prüfung)
+- angemessene Implementierung, weder Over- noch Underengineering
+
+#### Architektur und Prinzipien
+
+- Technologie-, Sprach- und Architekturwahl ist begründet
+- Trennung von Zuständigkeiten ist sichtbar (etwa Datenhaltung, Logik, Darstellung)
+- Grundprinzipien wie DRY, KISS und Separation of Concerns sind erkennbar berücksichtigt
+- Konsistente Code-Konventionen (Formatter und Linter empfohlen)
+
+#### Lizenz und Rechtliches
+
+- eine Lizenzdatei ist vorhanden und passt zum Verwendungszweck
+- Bilder, Schriften und Daten sind mit Quelle und Nutzungserlaubnis hinterlegt
+- falls generative Werkzeuge oder Templates eingesetzt wurden, ist das transparent gemacht 
+- bei der Nutzung von KI-Tools bitte [Chat Protokoll](https://www.archi-lab.io/infopages/ai/documentation-of-ai-chat-protocols.html) anfertigen und mit ins Repo einchecken
+
+
+### Stufe 2: Master
+
+Alles aus Stufe 1, zusätzlich:
+
+#### Kontext und Rahmen
+
+- Forschungsfrage beziehungsweise Zielsetzung der Arbeit ist im README skizziert
+- der Zusammenhang zwischen Repository und schriftlicher Ausarbeitung ist beschrieben (welches Kapitel referenziert welchen Codebereich)
+- der Abgabestand des Repositories ist als Git-Tag oder Release markiert
+
+#### Repository und Kooperation
+
+- Issue-getriebenes Arbeiten: Aufgaben werden als Issues geführt, Commits und Pull Requests referenzieren diese Issues sauber (etwa `Closes #42`)
+- Pull Requests enthalten eine inhaltliche Beschreibung und werden, wo möglich, reviewed
+- [Conventional Commits](https://www.conventionalcommits.org) werden konsequent eingesetzt
+- ein Projektboard oder vergleichbares Werkzeug strukturiert die Arbeit
+- Milestones gliedern den Verlauf zeitlich
+
+#### Lauffähigkeit und Reproduzierbarkeit
+
+- Abhängigkeitsversionen sind fixiert (Lockfiles im Repository)
+- eine CI-Pipeline führt grundlegende Checks aus (Lint, Build, ggf. Tests)
+- Deployment ist nachvollziehbar dokumentiert
+
+#### Code-Qualität
+
+- Statische Codeanalyse und Formatierung sind automatisiert
+- Tests in angemessenem Umfang (Unit, Integration, je nach Projekt End-to-End)
+- die Auswahl der getesteten Bereiche ist reflektiert begründet, nicht primär die nackte Quote
+- Logging und Fehlerbehandlung sind durchdacht
+
+#### Architektur und Prinzipien
+
+- die Architektur ist dokumentiert, etwa überschlanke Diagramme
+- [ADRs](https://adr.github.io) für alle wesentlichen Entscheidungen, jeweils mit Kontext, Optionen, Begründung und Konsequenzen
+- etablierte Prinzipien sind sichtbar angewandt: SOLID, fachlich orientierte Schnitte, etc.
+- Trade-offs (Performance gegen Komplexität, Wartbarkeit gegen Time to Market) sind reflektiert
+- [Barrierefreiheit nach WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/), ein bewusstes Performance-Budget, Responsive Design, Grundlagen der Web-Security gemäß [OWASP Top 10](https://owasp.org/Top10/)
+
+#### Lizenz und Rechtliches
+
+- eigene Lizenzdatei sowie eine Übersicht relevanter Drittlizenzen (etwa `THIRD_PARTY_LICENSES`)
+- Datenschutz ist berücksichtigt, sofern personenbezogene Daten verarbeitet werden
+- bei öffentlicher Bereitstellung: kurze Hinweise zu Beiträgen (`CONTRIBUTING.md`)
+
 
 
 
