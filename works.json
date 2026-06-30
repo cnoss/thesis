@@ -12,6 +12,8 @@ layout: null
   "type": "{{ item.type }}",
   "status": "{{ item.status }}",
   "keywords": "{{ item.keywords }}",
+  "firstExaminer": "{{ site.first-examiner }}",
+  "secondExaminer": "{{ item.second-examiner }}",
   "partner": "{{ item.partner }}",
   "partnerUrl": "{{ item.partner-url }}",
   "image": "{{ item.thumbnail }}",

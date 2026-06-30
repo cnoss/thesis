@@ -2,6 +2,9 @@ site: Index Jekyll Theme
 
 target: https://index.jekyllthemes.io
 baseurl: "/thesis"
+
+# Erstprüfer*in (immer dieselbe Person, hier zentral konfigurierbar)
+first-examiner: Christian Noss
 # host: 172.20.10.4
 
 defaults:
