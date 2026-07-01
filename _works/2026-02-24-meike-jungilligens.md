@@ -14,6 +14,7 @@ research-diary: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Digitale Barrierefreiheit, Screenreader, WCAG 2.1, Vuetify, UI-Frameworks
 main-examiner: true
 thumbnail: /assets/uploads/bilddoku-09-meike-jungilligens.png

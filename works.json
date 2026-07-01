@@ -3,7 +3,7 @@ layout: null
 ---
 
 [
-{% assign works=site.works | where: "visibility","published" %}
+{% assign works=site.works | where: "visibility","published" | where: "publish-mi-website", true %}
 {% for item in  works %}
 {
   "title": "{{ item.title }}",

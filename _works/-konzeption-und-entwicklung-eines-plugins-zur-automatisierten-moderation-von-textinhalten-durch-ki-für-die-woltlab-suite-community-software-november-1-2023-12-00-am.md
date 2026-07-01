@@ -6,6 +6,7 @@ title: Konzeption und Entwicklung eines Plugins zur automatisierten Moderation
 date: 2023-11-01
 type: Bachelorarbeit
 visibility: published
+publish-mi-website: false
 status: finished
 keywords: Moderation nutzergenerierter Inhalte, Sprachmodelle, automatisierte
   Inhaltsmoderation, künstliche Intelligenz

@@ -16,6 +16,7 @@ slideshow: true
 final-presentation: QXwDuePHw5U
 type: Bachelorarbeit
 visibility: published
+publish-mi-website: true
 status: finished
 keywords: Content Authenticity Initiative (CAI), Generative künstliche
   Intelligenz, Authentizität

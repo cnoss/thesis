@@ -6,6 +6,7 @@ title: Featureentwicklung in modernen Browsern
 date: 2023-06-01
 type: Bachelorarbeit
 visibility: published
+publish-mi-website: false
 status: finished
 keywords:
   - Webentwicklung

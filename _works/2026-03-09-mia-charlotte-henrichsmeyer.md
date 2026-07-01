@@ -11,6 +11,7 @@ slideshow: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Microinteractions, Accessibility, UX-Design, Webdevelopment
 main-examiner: true
 thumbnail: /assets/uploads/mia-henrichsmeyer-thumbnail.jpg

@@ -78,6 +78,7 @@ collections:
         widget: "select"
         options: ["published", "unpublished"]
         default: "unpublished"
+      - {label: "Auf Medieninformatik-Website veröffentlichen", name: "publish-mi-website", widget: "boolean", default: true, hint: "Nur wenn aktiviert, erscheint dieser Datensatz in der works.json (Feed der Medieninformatik-Website)."}
       - label: "Keywords"
         name: "keywords"
         widget: "string"

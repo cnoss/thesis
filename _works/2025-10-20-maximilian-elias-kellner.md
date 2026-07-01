@@ -14,6 +14,7 @@ research-diary: false
 type: Praxisprojekt
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Web-Anwendung, 3D, ThreeJS
 main-examiner: true
 thumbnail: /assets/uploads/photo-log-kellner-19-10-25-02-10.webp

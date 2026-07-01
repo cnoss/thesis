@@ -13,6 +13,7 @@ research-diary: true
 type: Masterarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Adressmanagement, Multi-Channel-Integration, Browser-Extension, föderierte Datenweitergabe, Self-Sovereign Identity, Datensouveränität, inkrementelle Adoption, Graceful Degradation
 main-examiner: true
 thumbnail: /assets/uploads/photo-log-christian-hollaender-20260508-14.jpg

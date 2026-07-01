@@ -10,6 +10,7 @@ research-diary: false
 type: Praxisprojekt
 status: in-progress
 visibility: unpublished
+publish-mi-website: false
 keywords: KI, Design
 main-examiner: true
 ---

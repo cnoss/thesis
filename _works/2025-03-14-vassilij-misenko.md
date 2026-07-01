@@ -15,6 +15,7 @@ research-diary: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Web, Typography, CSS
 main-examiner: true
 thumbnail: /assets/uploads/photo-log-vassilij-misenko-2025-07-16-08-s.webp

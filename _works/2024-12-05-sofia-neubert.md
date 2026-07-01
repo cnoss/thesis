@@ -8,6 +8,7 @@ research-diary: false
 type: Praxisprojekt
 status: in-progress
 visibility: unpublished
+publish-mi-website: false
 keywords: Design, Frontend
 main-examiner: true
 ---

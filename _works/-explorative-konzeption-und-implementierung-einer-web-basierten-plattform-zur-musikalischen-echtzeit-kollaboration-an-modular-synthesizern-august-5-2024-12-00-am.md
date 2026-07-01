@@ -13,6 +13,7 @@ slideshow: true
 final-presentation: v683mTqOySw
 type: Masterarbeit
 visibility: published
+publish-mi-website: true
 status: finished
 keywords: Echtzeit-Kollaboration, Modular-Synthesizer, digitale Klangerzeugung,
   Remote-Kollaboration

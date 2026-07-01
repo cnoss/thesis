@@ -9,6 +9,7 @@ research-diary: false
 type: Masterarbeit
 status: in-preparation
 visibility: unpublished
+publish-mi-website: false
 keywords: Datenvisualisierung, CDA, Web
 main-examiner: true
 ---

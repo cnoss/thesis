@@ -10,6 +10,7 @@ research-diary: false
 type: Masterarbeit
 status: finished
 visibility: published
+publish-mi-website: false
 keywords: DRM, Web, Bildschutz, Wasserzeichen, Captcha
 main-examiner: true
 ---

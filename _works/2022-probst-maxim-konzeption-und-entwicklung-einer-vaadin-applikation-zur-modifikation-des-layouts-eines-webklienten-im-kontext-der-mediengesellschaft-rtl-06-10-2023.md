@@ -7,6 +7,7 @@ title: Konzeption und Entwicklung einer Vaadin-Applikation zur Modifikation des
 date: 2023-10-06
 type: Bachelorarbeit
 visibility: published
+publish-mi-website: false
 status: finished
 keywords: Web Frontend Development
 partner: RTL Mediengruppe

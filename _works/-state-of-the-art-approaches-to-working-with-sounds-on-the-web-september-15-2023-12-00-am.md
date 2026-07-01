@@ -5,6 +5,7 @@ title: State-of-the-Art approaches to working with sounds on the web
 date: 2023-09-15
 type: Masterarbeit
 visibility: published
+publish-mi-website: false
 status: finished
 keywords: Webtechnologien, Web Audio API, Audiokomposition, interaktive Webanwendungen
 ---

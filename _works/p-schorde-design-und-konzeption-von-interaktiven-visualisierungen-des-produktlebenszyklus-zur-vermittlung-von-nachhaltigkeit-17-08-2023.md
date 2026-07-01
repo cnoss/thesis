@@ -7,6 +7,7 @@ title: " Design und Konzeption von interaktiven Visualisierungen des
 date: 2023-08-17
 type: Masterarbeit
 visibility: published
+publish-mi-website: false
 status: finished
 keywords: Nachhaltiger Konsum, Agenda 2030, Lebenszyklusanalyse, Visualisierung von Nachhaltigkeitsdimensionen
 partner: Anna Matilda Nowak-Meitinger, Technische Universität Berlin

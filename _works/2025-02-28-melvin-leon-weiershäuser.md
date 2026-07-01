@@ -8,6 +8,7 @@ research-diary: false
 type: Masterarbeit
 status: finished
 visibility: published
+publish-mi-website: false
 keywords: Barrierefreie Authentifizierung, Passkeys vs. Passwort, Digitale
   Barrierefreiheit, Single-Sign-On (SSO) Accessibility
 main-examiner: false

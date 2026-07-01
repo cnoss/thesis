@@ -15,6 +15,7 @@ research-diary: false
 type: Masterarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: visual programming, participative art, collaborations in live
   performances, ui design, web development, live coding, webrtc
 main-examiner: true

@@ -14,6 +14,7 @@ research-diary: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Browsererweiterung, Large Language Models, Webentwicklung, UI-
   Rekonstruktion, Prompt Engineering, Prototypische Entwicklung
 main-examiner: true
