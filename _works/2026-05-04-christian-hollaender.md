@@ -15,6 +15,7 @@ status: finished
 visibility: published
 keywords: Adressmanagement, Multi-Channel-Integration, Browser-Extension, föderierte Datenweitergabe, Self-Sovereign Identity, Datensouveränität, inkrementelle Adoption, Graceful Degradation
 main-examiner: true
+thumbnail: /assets/uploads/photo-log-christian-hollaender-20260508-14.jpg
 ---
 In Deutschland ziehen jährlich rund acht Millionen Menschen um – und jeder Umzug zieht eine Kaskade manueller Adressänderungen bei dutzenden Diensten nach sich. Bestehende Lösungsansätze auf Basis dezentraler Identitäten (Self-Sovereign Identity) scheiterten nicht an technischer Unreife, sondern an einem Henne-Ei-Problem: Ohne teilnehmende Dienste kein Nutzwert, ohne Nutzwert kein Anreiz zur Teilnahme.
 
