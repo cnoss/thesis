@@ -1,11 +1,12 @@
-Titel: Die Darstellung heterogener Bezüge im Cranach Digital Archive
+Titel: Erweiterung und Visualisierung facettierter Relationen im Cranach Digital Archive
 
-Zielbild: Es werden Methoden zur Visualisierung von semantischen Bezügen zwischen Kunstwerken des Cranach Digital Archive untersucht. Ziel ist es, eine Nutzerschnittstelle zu entwickeln, die Beziehungen zwischen den Werken sichtbar macht und neue Einblicke in deren Kontexte ermöglicht.
+Zielbild: Vorliegende Metadaten zu Kunstwerken des Cranach Digital Archive werden analysiert und anschließend untersucht, inwieweit die Datengrundlage ausgebaut werden kann. Es werden Methoden zur Visualisierung von Facetten der Kunstwerke diskutiert und bewertet. Ziel ist es, eine Nutzerschnittstelle zu entwickeln, die Beziehungen zwischen den Werken sichtbar macht und neue Einblicke in deren Kontexte ermöglicht.
 
 Wege zur Zielerreichung:
 
-- Analyse semantischer Facetten von Kunstwerken insbesondere aus kunsthistorischer Sicht
-- Analyse und Vergleich bestehender Visualisierungsmethoden für semantische Bezüge
-- Erarbeitung geeigneter Ansätze für die Visualisierung der bereits erfassten Bezüge im Cranach Digital Archive
-- Konzeption einer Nutzerschnittstelle für Werke des Cranach Digital Archive und ihre Bezüge
+- Analyse semantischer und technischer Facetten von Kunstwerken insbesondere aus kunsthistorischer Sicht
+- Untersuchung geeigneter Methoden zum Ausbau der Datengrundlage
+- Analyse und Vergleich bestehender Visualisierungsmethoden für facettierte Relationen
+- Erarbeitung geeigneter Ansätze für die Visualisierung der erfassten Relationen im Cranach Digital Archive
+- Konzeption einer Nutzerschnittstelle für Werke des Cranach Digital Archive und ihre Facetten
 - Entwicklung eines webbasierten Prototypen
