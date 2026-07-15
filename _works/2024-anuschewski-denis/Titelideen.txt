@@ -1,0 +1,39 @@
+Vorschlag 1:
+
+Die Visualisierung von Facetten mittelalterlicher Kunstwerke am Beispiel des Cranach Digital Archive
+
+Vorschlag 2:
+
+Die Visualisierung von semantischen Bezügen zwischen Kunstwerken des Cranach Digital Archive
+
+Vorschlag 3:
+
+Inwieweit beeinflusst die Visualisierung der Bezüge zwischen Kunstwerken des Cranach Digital Archive das Nutzererlebnis?
+
+Vorschlag 4:
+
+Entwicklung einer webbasierten Nutzerschnittstelle zum Erfahrbarmachen heterogener Bezüge zwischen mittelalterlichen Kunstwerken
+
+Vorschlag 5:
+
+Entwicklung einer webbasierten Nutzerschnittstelle zur Kontextvisualisierung von mittelalterlichen Kunstwerken
+
+Vorschlag 6:
+
+Erweiterung einer Web-Galerie um eine explorative Nutzerschnittstelle zum Erfahrbarmachen der Facetten mittelalterlicher Kunstwerke
+
+Vorschlag 7:
+
+Entwicklung und Analyse einer explorativen Nutzerschnittstelle zur Erweiterung einer Web-Galerie
+
+Vorschlag 8:
+
+Einsatz einer explorativen Nutzerschnittstelle zur Erweiterung einer Web-Galerie
+
+Vorschlag 9:
+
+Untersuchung des Nutzererlebnisses anhand der Erweiterung einer Web-Galerie um eine explorative, visuelle Schnittstelle
+
+Vorschlag 10:
+
+Das webbasierte Erkunden mittelalterlicher Kunstwerke anhand visueller Nutzerschnittstellen
