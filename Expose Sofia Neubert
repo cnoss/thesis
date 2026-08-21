@@ -1,0 +1,56 @@
+Expose Sofia Neubert: Visualisierung der 100 Meisterwerke des Lucas Cranach Archives im Digitalen, inspiriert durch Coffee Table Books. 
+
+Projektvorstellung:
+Das Lucas Cranach Archive (LAC) ist eine Digitale Sammlung der Werke des Künstlers Lucas Cranach und dessen Söhne, welche im Rahmen eines kollaborativen Forschungsprojekts von mehreren Institutionen als öffentliche Ressource zusammengetragen, restauriert und erforscht werden. Die TH-Köln beteiligt sich an diesem Forschungsprojekt unter anderem innerhalb des Medieninformatik-Studiengangs anhand von verschiedenen Projektarbeiten. 
+Ansatz einer dieser Projekte ist die Konzeption eines “Digital Coffee Table Book", welches die 100 Meisterwerke des LCA visuell und interaktiv darstellen soll, um diese an eine nicht wissenschaftlich geprägte Zielgruppe zu vermitteln. 
+
+Projektumfang:
+
+Umfang dieses Projektes wäre eine Konzeption und eventuelle Implementierung eines Design Konzeptes, welches die in der Projekt Vorstellung vorgestellten Anforderungen mit Betrachtung der Zielsetzung umsetzt. 
+
+Der Content der in dieses Digital Coffee Table Book mit einfließen soll, soll auf interaktive weiße durch digitale mittel an den Leser vermittelt werden. Dies kann anhand von Implementationen von Animationen, Video, Audio und ähnliche nicht analoger Medien geschehen. 
+
+
+Es sollte auch eine Überlegung bezüglich Gamification in Betracht gezogen werden, hierbei muss beachtet werden, zu welchen Maßen solche Ansätze angemessen sind im Kontext des LCAs als wissenschaftliche Ressource. Die Gestaltung des Coffee Table Books soll nicht im Konflikt mit dem eigentlichen Archiv stehen. 
+
+Das Ergebnis des Projektes ist eine funktionsfähige Lösung, welche entweder als Design Ansatz weiter iteriert werden kann oder nach Einverständnis des LCA als finales Produkt benutzt werden kann. 
+
+Umsetzung:
+
+Um diese Anforderungen zu erreichen ist die Durchführung einer Zielgruppenanalyse sinning, diese soll klarheit schaffen welche Charakteristika die Zielgruppe besitzt, wie diese mit dem Projekt in Kontakt kommen und ob die Zielsetzung mit dem angestrebten Projekt umsetzbar ist oder ob ein alternativer Lösungsansatz in Erwägung gebracht werden sollte.
+
+Die Nutzung von Personas und Szenarien können im Rahmen dieser Analyse helfen, einen angemessenen Lösungsansatz zu finden, jedoch wäre eine großspurige Umfrage bezüglich allgemeines Interesse auch erstrebenswert. 
+
+Im weiteren Verlauf wäre eine Entscheidung bezüglich der Umsetzung des Projektes zu treffen, es gibt verschiedene Wege das Vorhaben zu realisieren, die unterschiedliche Vor- und Nachteile mit sich bringen. Diese müssen analysiert und im Kontext der Interessen des LCA bewertet werden. 
+
+Wer soll wie und mit welcher Zielsetzung mit dem Projekt erreicht werden und welche Kriterien sind hierbei Erfolgs relevant? Welche Risiken können daraus erkenntlich gemacht werden und wie können diese pervertiert werden? Gibt es Ausweichmöglichkeiten, auf die man zurückweichen kann?
+
+Die Hauptschwerpunkte, die bereits bekannt sind und  in Betracht genommen werden müssen, wären Aufwand, Kosten und der einfache und intuitive Umgang mit dem Endprodukt. 
+
+Software, Plattformen und Werkzeuge, die für dieses Projekt relevant sein können, müssen recherchiert werden und eine konkrete Entscheidung bezüglich des Projekt Vorgehens und der Timeline sollten getroffen werden. 
+
+Das Screendesign der Lösung sollte sich an modernen Design Prinzipien orientieren, jedoch ersichtlich im betracht der Zielgruppe sein, eine tiefgründige Recherche in den Feld des Interaction Designs und der User Journey ist geplant. 
+
+Das Design sollte sich möglichst an das bereits etablierte Design des LCA richten, hierfür wird ein Styleguide erstellt.
+
+
+Teil des einzufleggenden Content sind zusammengefasste Texte die die Informationen zu den einzelnen Meisterwerken in einer Umgangssprachlichen weiße vermitteln, um diesem Prozess zu vereinfachen wird in Erwägung gebracht AI Werkzeuge zu verwenden, hierbei muss untersucht werden welche AI Werkzeuge hierfür geeignet sind, wie konsistent und wie qualitativ hochwertig sie sind. 
+
+Testen:
+
+Sobald ein brauchbarer Prototyp entwickelt wurde, sollte dieser durch Simulation von realistischen Bedingungen getestet werden, hierfür werden Testprotokolle angefertigt, die die Ergebnisse festhalten. 
+
+Es soll ermittelt werden wie der Endnutzer mit dem Prototype umgeht, welche Schwierigkeiten bei der Bedienung des Interfaces auftreten, wie ansprechend die Darstellung für den Nutzer wirken, welche Interaktionen mit dem Interface gut laufen, ob der AI generierte content Verständlich ist und ob Interesse besteht sich mit dem LCA weiter zu befassen. 
+
+Die Ergebnisse der Nutzertests werden dann analysiert und in Betracht genommen, wenn es zur Überarbeitung der Projekt-Lösung kommt. 
+
+Es sollten auch Überlegungen über mögliche Erweiterungen, die aus diesem Projekt entwickelt werden können, gemacht werden, so wie mögliche Ansätze für neue Projekte, die sich aus diesem Projekt erschließen lassen können. 
+
+Ergebnis:
+
+Am Ende des Projektes soll eine interaktive Darstellung der 100 Meisterwerke des LCA stehen, welches diese an eine nicht wissenschaftlich geprägte Zielgruppe vermittelt und eventuell deren Interesse an dem LCA erhöht. Das Projekt soll in Zukunft sichtlich skalierbar sein und es wird eine  Dokumentation zur Hilfsstelle von zukünftigen Ausarbeitungen geführt. 
+Eine wissenschaftliche Ausarbeitung des Projektverlaufes und deren Ergebnisse wird parallel zu den verschiedenen Phasen des Projektes gepflegt. 
+
+
+Literatur:
+https://lucascranach.org/ (Datum: 27.10.2025)

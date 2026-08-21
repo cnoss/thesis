@@ -1,0 +1,58 @@
+Expose Sofia Neubert: Visualisierung der 100 Meisterwerke des Lucas Cranach Archives im Digitalen, inspiriert durch Coffee Table Books. 
+
+Projektvorstellung:
+Das Cranach Digital Archive (CDA) ist eine Digitale Sammlung der Werke des Künstlers Lucas Cranach und dessen Söhne, welche im Rahmen eines kollaborativen Forschungsprojekts von mehreren Institutionen als öffentliche Ressource zusammengetragen, restauriert und erforscht werden. Die TH-Köln beteiligt sich an diesem Forschungsprojekt unter anderem innerhalb des Medieninformatik-Studiengangs anhand von verschiedenen Projektarbeiten. 
+
+Ansatz einer dieser Projekte ist die Konzeption eines “Digital Coffee Table Book", welches die 100 Meisterwerke des CDA visuell und interaktiv darstellen soll, um diese an eine nicht wissenschaftlich geprägte Zielgruppe zu vermitteln. 
+
+Anforderungen hierbei sind eine visuell ansprechende Gestaltung, die durch Coffee Table Books inspiriert ist, mit interaktiven digitalen Content Implementierungen zu kombinieren. Die Informationen über die Meisterwerke sollten leicht verständlich und übersichtlich sein, jedoch nicht ungenügend im Umfang sein oder fehlerhafte Informationen beinhalten.
+
+Projektumfang:
+
+Umfang dieses Projektes ist eine Konzeption eines Prototyps, der die in der Projektvorstellung erläuterten Anforderungen umsetzt.  
+
+Interaktiver Content wie Animationen, Videos und Ähnliches wird hierbei in die Designlösung implementiert. 
+
+Gamification wird auch in Betracht gezogen, dabei muss beachtet werden, zu welchen Maßen solche Ansätze angemessen sind, im Kontext des CDA als wissenschaftliche Ressource. 
+
+Die Gestaltung des Coffee Table Books soll die wissenschaftlichen Hintergründe des CDA nicht aus den Augen verlieren. Zielsetzung ist das Näherbringen der Inhalte durch Vereinfachung, es soll nicht ins Lächerliche gezogen werden.
+
+Die Anforderungen für das Projektvorhaben sind eine ansprechende Designlösung mit Fokus auf eine nicht wissenschaftliche Zielgruppe zu kreieren. Diese soll konsistent mit den bereits vorhandenen Designs des CDA bleiben und verschiedene Interaktionsmöglichkeiten bieten.  
+
+Umsetzung:
+
+Um diese Anforderungen zu erreichen, werden Zielgruppen und Stakeholderanalyse durchgeführt. Diese sollen Klarheit schaffen, welche Designansätze für die Zielsetzung Sinn machen. 
+
+Die Nutzung von Personas und Szenarien wird im Rahmen dieser Analyse helfen, einen angemessenen Lösungsansatz zu finden.
+
+Leitfragen hierbei sind: 
+
+Wer soll wie und mit welcher Zielsetzung mit dem Projekt erreicht werden und welche Kriterien sind hierbei Erfolgsrelevant? Welche Risiken können daraus erkenntlich gemacht werden und wie können diese vermieden werden?
+
+Die Hauptschwerpunkte, die bereits bekannt sind und  in Betracht genommen werden müssen, wären Aufwand, Kosten und der einfache und intuitive Umgang mit dem Endprodukt. 
+
+Das Screendesign der Lösung sollte sich an modernen Design Prinzipien orientieren, aber nicht die Bedürfnisse der Zielgruppen vernachlässigen.
+
+Das Design sollte sich möglichst an das bereits etablierte Design des CDA richten, hierfür wird ein Styleguide erstellt.
+
+Teil des einzufleggenden Contents sind zusammengefasste Texte welche die Informationen zu den einzelnen Meisterwerken in einer Umgangssprachlichen weiße vermitteln. 
+
+Der Prozess soll hierbei mit der Hilfe von KI-Tools vereinfacht werden, diese müssen für das Vorhaben getestet und recherchiert werden. 
+
+Feedback:
+
+Sobald die ersten Designentwürfe existieren, werden diese durch Feedback von Professor Noss und unabhängigen Personen evaluiert und überarbeitet. 
+
+Die Ergebnisse des Feedbacks werden dokumentiert und analysiert. 
+
+Das Feedback wird in Betracht genommen und es wird entschieden, ob die Designlösung weiter überarbeitet werden muss. 
+
+
+Ergebnis:
+
+Am Ende des Projektes soll ein Prototyp für eine interaktive Darstellung der 100 Meisterwerke des CDA stehen, welches diese an eine nicht wissenschaftlich geprägte Zielgruppe vermittelt und eventuell deren Interesse an dem CDA erhöht. Das Projekt soll in Zukunft sichtlich skalierbar sein und es wird eine  Dokumentation zur Hilfsstelle von zukünftigen Ausarbeitungen geführt. 
+Eine wissenschaftliche Ausarbeitung des Projektverlaufes und deren Ergebnisse wird parallel zu den verschiedenen Phasen des Projektes gepflegt. 
+
+
+Literatur:
+https://lucascranach.org/ (Datum: 27.10.2025)
