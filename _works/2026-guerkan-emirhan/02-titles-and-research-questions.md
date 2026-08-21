@@ -21,7 +21,7 @@
 
 ---
 
-**2. Hauptfrage:** Welche Anforderungen ergeben sich aus der Evaluation für die Weiterentwicklung des Prototyps?
+**2. Hauptfrage:** Welche Erfordernisse und Anforderungen ergeben sich aus der Evaluation für die Weiterentwicklung des Prototyps?
 
 **Ziel:** Auf Basis einer Nutzerevaluation konkrete Erfordernisse und Anforderungen für die Weiterentwicklung des Prototyps MyCustomCharts ableiten
 
