@@ -1,4 +1,4 @@
-# Exposé - Inwiefern verbessert der entwickelte Prototyp den bisherigen Workaround zur Diagrammerstellung in Word Online?
+# Exposé - Evaluation eines Word-Online-Add-ins MyCustomCharts zur Diagrammerstellung im Vergleich mit dem bestehenden Excel-Workaround
 
 ## Ausgangssituation
 
@@ -51,23 +51,23 @@ Der im Praxisprojekt entwickelte Prototyp MyCustomCharts zeigt, dass eine techni
 
 ### Meilenstein 1: Evaluationskonzept-Entscheidungen
 
-**Deadline:** 06.09.2026
+**Deadline:** 13.09.2026
 
 ### Meilenstein 2: Evaluation vorbereiten
 
-**Deadline:** 13.09.2026
+**Deadline:** 20.09.2026
 
 ### Meilenstein 3: Pre-Test durchführen
 
-**Deadline:** 20.09.2026
+**Deadline:** 27.09.2026
 
 ### Meilenstein 4: Pretest auswerten und Evaluation verbessern
 
-**Deadline:** 27.09.2026
+**Deadline:** 04.10.2026
 
 ### Meilenstein 5: Evaluation durchführen
 
-**Deadline:** 11.10.2026
+**Deadline:** 18.10.2026
 
 ### Meilenstein 6: Evaluation auswerten
 
