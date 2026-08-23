@@ -18,7 +18,7 @@ Ziel dieser Arbeit ist es, zu untersuchen, inwiefern der im Praxisprojekt entwic
 
 ## Forschungsfragen
 
-* Inwiefern verbessert der entwickelte Prototyp den bisherigen Workaround zur Diagrammerstellung in Word Online?
+* Wie unterscheiden sich der entwickelte Prototyp und der bisherige Workaround bei der Diagrammerstellung in Word Online aus Nutzersicht?
 
 ***
 
