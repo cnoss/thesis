@@ -15,7 +15,7 @@
 
 ## 3 mögliche Forschungsfragen/Zielbilder
 
-**1. Hauptfrage:** Inwiefern verbessert der entwickelte Prototyp den bisherigen Workaround zur Diagrammerstellung in Word Online?
+**1. Hauptfrage:** Wie unterscheiden sich der entwickelte Prototyp und der bisherige Workaround bei der Diagrammerstellung in Word Online aus Nutzersicht?
 
 **Ziel:** Prototyp vs. aktuellen Workaround vergleichen im Rahmen einer Nutzerevaluation
 
