@@ -1,8 +1,8 @@
-# Exposé - Evaluation eines Word-Online-Add-ins MyCustomCharts zur Diagrammerstellung im Vergleich mit dem bestehenden Excel-Workaround
+# Exposé - Evaluation und Weiterentwicklung eines Add-ins für die Erstellung von Diagrammen in Word Online
 
 ## Ausgangssituation
 
-Nutzer die in Word Online arbeiten und Diagramme in ihre Dokumente einbinden möchten, sind auf einen umständlichen Prozess mit Excel Online angewiesen. Excel Online ist eine weitere Webanwendung zur Verarbeitung und Visualisierung von Daten. Sie ist wie Word Online ein Teil von Microsoft 365 und erfordert keine Installation. Aktuell müssen Nutzer Excel Online öffnen, dort ein Diagramm erstellen, es als einfaches Bild kopieren und in Word Online Dokument einfügen.
+Nutzer die in Word Online arbeiten und Diagramme in ihre Dokumente einbinden möchten, sind auf einen Umweg mit Excel Online angewiesen. Excel Online ist eine weitere Webanwendung zur Verarbeitung und Visualisierung von Daten. Sie ist wie Word Online ein Teil von Microsoft 365 und erfordert keine Installation. Aktuell müssen Nutzer Excel Online öffnen, dort ein Diagramm erstellen, es als einfaches Bild kopieren und in Word Online Dokument einfügen.
 
 Dieser Prozess bringt mehrere Probleme mit sich. Beim Kopieren aus Excel Online und Einfügen in Word Online gehen Formatierungen, Beschreibungen, Alt-Texte und Untertitel verloren. Bei jeder Aktualisierung der Daten beginnt der gesamte Prozess von vorne. Darüber hinaus benötigen Nutzer Excel Kenntnisse obwohl sie eigentlich nur ein Dokument in Word Online erstellen möchten.
 
@@ -12,13 +12,14 @@ Im Rahmen eines vorangegangenen Praxisprojekts wurde bereits ein Add-in-Prototyp
 
 ## Zielsetzung
 
-Ziel dieser Arbeit ist es, zu untersuchen, inwiefern der im Praxisprojekt entwickelte Add-in-Prototyp MyCustomCharts den bisherigen Workaround zur Diagrammerstellung in Word Online verbessert. Dazu wird der Prototyp im Rahmen einer Nutzerevaluation dem bestehenden Excel-basierten Workaround gegenübergestellt. Untersucht werden dabei die Effizienz und die Benutzerfreundlichkeit. Die Evaluation erfolgt mit Nutzern aus den drei zuvor identifizierten Zielgruppen: Primäre, Sekundäre und Indirekte Nutzer.
+Ziel dieser Arbeit ist es, den bisherigen Workflow zur Diagrammerstellung in Word Online mit dem neuen entwickelten Workflow zu vergleichen und zu evaluieren, ob sich dieser verbessert oder verschlechtert hat. Auf Grundlage dieser Evaluation sollen darüber hinaus neue Erfordernisse und Anforderungen für die Weiterentwicklung des Add-ins abgeleitet werden.
 
 ***
 
 ## Forschungsfragen
 
-* Wie unterscheiden sich der entwickelte Prototyp und der bisherige Workaround bei der Diagrammerstellung in Word Online aus Nutzersicht?
+* Wie unterscheiden sich die Workflows bei der Diagrammerstellung in Word Online zwischen dem bisherigen Workaround und dem neuen Workflow durch ein Add-in aus Nutzersicht?
+* Welche Erfordernisse und Anforderungen ergeben sich aus der Evaluation für die Weiterentwicklung des Prototyps?
 
 ***
 
@@ -31,7 +32,7 @@ Die Entwicklung mit der Office.js API ist besonders reizvoll, da es sich nicht u
 ## Relevanz und Praxisbezug
 
 Word Online wird von Millionen Menschen genutzt, und die fehlende Möglichkeit, Diagramme direkt zu erstellen, betrifft alle, die regelmäßig mit Tabellendaten arbeiten und diese in Word-Dokumenten visualisieren möchten.
-Der im Praxisprojekt entwickelte Prototyp MyCustomCharts zeigt, dass eine technische Lösung für dieses Problem grundsätzlich umsetzbar ist. Ob diese Lösung jedoch tatsächlich einen praktischen Nutzen für reale Anwender bringt, wurde bisher nicht überprüft. Genau hier liegt der Praxisbezug dieser Arbeit. Die Ergebnisse sollen zeigen, ob der Prototyp funktioniert und eine echte Verbesserung darstellt.
+Der im Praxisprojekt entwickelte Add-in zeigt, dass eine technische Lösung für dieses Problem grundsätzlich umsetzbar ist. Ob diese Lösung jedoch tatsächlich einen praktischen Nutzen für reale Anwender bringt, wurde bisher nicht überprüft. Genau hier liegt der Praxisbezug dieser Arbeit. Die Ergebnisse sollen zeigen, ob der Prototyp funktioniert und eine echte Verbesserung darstellt.
 
 ***
 
@@ -44,6 +45,8 @@ Der im Praxisprojekt entwickelte Prototyp MyCustomCharts zeigt, dass eine techni
 * **Evaluation durchführen:** Die eigentliche Evaluation wird mit Nutzern aus den drei Zielgruppen primärer, sekundärer und indirekter Nutzer durchgeführt.
 * **Evaluation auswerten:** Die gesammelten Daten aus der Evaluation werden anschließend ausgewertet und analysiert.
 * **Prototyp vs. bisherigen Workaround vergleichen:** Auf Basis der Auswertung werden der Prototyp und der bisherige Excel-Workaround hinsichtlich Effizienz und Benutzerfreundlichkeit miteinander verglichen.
+* **Neue Erfordernisse und Anforderungen herleiten:** Auf Basis der Auswertung werden neue Erfordernisse und Anforderungen hergeleitet.
+* **Weiterentwicklung:** Auf Basis der Erfordernisse und Anforderungen soll das Add-in weiterentwickelt werden.
 
 ***
 
@@ -75,11 +78,19 @@ Der im Praxisprojekt entwickelte Prototyp MyCustomCharts zeigt, dass eine techni
 
 ### Meilenstein 7: Prototyp vs. bisherigen Workaround vergleichen
 
+**Deadline:** 01.11.2026
+
+### Meilenstein 8: Neue Erfordernisse und Anforderungen herleiten
+
 **Deadline:** 08.11.2026
+
+### Meilenstein 8: Weiterentwicklung
+
+**Deadline:** 22.11.2026
 
 ### Meilenstein 8: Abschlusspräsentation
 
-**Deadline:** xx.11.2026
+**Deadline:** 02.12.2026
 
 ## Verweis auf Fachliteratur
 
