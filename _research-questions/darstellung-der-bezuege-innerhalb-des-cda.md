@@ -3,7 +3,7 @@ title: Darstellung der Bezüge zwischen den Werken des Cranach Digital Archives
 keywords: Data Visualisation, Interactive Art, Generative Gestaltung, UX
 layout: work
 status: proposal
-datum: 15.01.2023
+datum: 15.01.2026
 ---
 
 Die offene Forschungsdatenbank [Cranach Digital Archive](https://lucascranach.org/gallery) umfasst derzeit über 2000 Werke aus dem Werk Lucas Cranachs. Insgesamt kann über das web-basierte Tool auf mehr als 20.000 Bilder zugegriffen werden. Zwischen den Werken gibt es verschiedene Bezüge. Hier ein paar Beispiele:

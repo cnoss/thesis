@@ -2,7 +2,7 @@
 title: KI Tools für's Screendesign
 keywords: Screendesign, KI
 layout: work
-status: proposal
+status: unpublished
 datum: 16.08.2023
 ---
 
