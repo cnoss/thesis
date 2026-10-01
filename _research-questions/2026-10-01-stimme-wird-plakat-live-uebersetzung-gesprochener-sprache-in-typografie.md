@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "Stimme wird Plakat: Live-Übersetzung gesprochener Sprache in typografische Kompositionen"
+title: "Live-Übersetzung gesprochener Sprache in typografische Kompositionen"
 datum: 01.10.2026
 status: proposal
 keywords: Typografie, Variable Fonts, Sprachanalyse, Web Audio, Plakatgestaltung, Creative Coding
