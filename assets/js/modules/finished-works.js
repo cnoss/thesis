@@ -1,5 +1,5 @@
 const worksDataUrl = "works.json";
-const displayMax = 5;
+const displayMax = 10;
 
 const formatDateForSafari = (dateString, locale = 'de-DE') => {
 
