@@ -1,0 +1,30 @@
+Zielbild 1: Visualisierung von semantischen Bezügen zwischen Kunstwerken
+
+Ziel: Die Arbeit untersucht Methoden zur Visualisierung von semantischen Bezügen zwischen Kunstwerken des Cranach Digital Archive. Ziel ist es, eine explorative Nutzerschnittstelle zu entwickeln, die Beziehungen zwischen den Werken sichtbar macht und neue Einblicke in deren Kontexte ermöglicht.
+
+Weg zur Zielerreichung:
+
+- Analyse bestehender Visualisierungstechniken für semantische Bezüge insbesondere im Kontext von Kunstwerken
+- Entwicklung eines Prototypen für eine webbasierte Nutzerschnittstelle
+- Evaluation der Benutzerfreundlichkeit durch Nutzerstudien
+
+Zielbild 2: Erweiterung einer Web-Galerie um eine explorative Nutzerschnittstelle
+
+Ziel: Ziel ist es, die Web-Galerie des Cranach Digital Archive um eine explorative Nutzerschnittstelle zu erweitern. Nutzer sollen durch neue Visualisierungsformen intuitiv Zusammenhänge zwischen Kunstwerken erforschen können, um ein tieferes Verständnis für deren Kontexte zu erhalten.
+
+Weg zur Zielerreichung:
+
+- Konzeption einer visuellen Navigationsschnittstelle innerhalb der Web-Galerie
+- Implementierung der Schnittstelle mit modernen Web-Technologien
+- Evaluation der Nutzererfahrung durch Usability-Tests
+
+Zielbild 3: Nutzererlebnis und Wirkung der Visualisierung von Kunstwerk-Bezügen
+
+Ziel: Die Arbeit erforscht, inwieweit Visualisierungstechniken das Nutzererlebnis beim Erkunden mittelalterlicher Kunstwerke beeinflussen. Besonderes Augenmerk liegt auf den Charakteristiken der verschiedenen Facetten.
+
+Weg zur Zielerreichung:
+
+- Entwicklung eines interaktiven Prototypen mit mindestens einem konkreten Visualisierungsansatz
+- Durchführung einer Nutzerstudie zur Evaluation der Nutzererfahrung
+- Analyse der Ergebnisse zur Optimierung zukünftiger Visualisierungskonzepte
+
