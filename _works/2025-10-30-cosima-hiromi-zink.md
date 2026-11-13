@@ -12,6 +12,7 @@ research-diary: false
 type: Praxisprojekt
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Self-Tracking, Digitale Selbstvermessung, Webanwendung, User
   Experience, Visuelle Selbstbeobachtung
 main-examiner: true

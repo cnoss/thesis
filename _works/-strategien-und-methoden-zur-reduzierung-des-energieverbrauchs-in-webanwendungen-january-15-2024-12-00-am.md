@@ -6,6 +6,7 @@ title: " Strategien und Methoden zur Reduzierung des Energieverbrauchs in
 date: 2024-01-15
 type: Masterarbeit
 visibility: published
+publish-mi-website: false
 status: finished
 keywords: Energieeffizienz, Webanwendungen, Energieverbrauch
 ---

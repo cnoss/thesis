@@ -13,6 +13,7 @@ research-diary: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Web, VR, Musik
 main-examiner: true
 thumbnail: /assets/uploads/photo-log-aaron-asgharzadeh-2025-07-11-08.jpg.jpg

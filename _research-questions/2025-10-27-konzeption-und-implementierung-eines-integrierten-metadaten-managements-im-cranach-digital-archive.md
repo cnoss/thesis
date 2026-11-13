@@ -3,7 +3,7 @@ layout: work
 title: Konzeption und Implementierung eines integrierten Metadaten-Managements
   im Cranach Digital Archive
 datum: 27.10.2025
-status: proposal
+status: false
 keywords: Cranach, Metadaten, komplexe Architektur, Brownfield
 ---
 Im Rahmen des [Cranach Digital Archive](https://lucascranach.org/de/search?page=1&kind=paintings) bietet sich eine Masterarbeit an, die sich mit der konzeptionellen und technischen Harmonisierung von Metadaten-Prozessen beschäftigt – mit dem Ziel, bestehende Abläufe zu vereinheitlichen, komplexe Use Cases abzudecken und eine nachhaltige Integration in die bestehende Systemarchitektur zu gewährleisten.

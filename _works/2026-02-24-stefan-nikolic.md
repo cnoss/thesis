@@ -14,6 +14,7 @@ research-diary: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Web-Entwicklung, Softwarearchitektur, JavaScript-Frameworks, Ent-
   scheidungsmodell, MCDA, AHP, TOPSIS
 main-examiner: true

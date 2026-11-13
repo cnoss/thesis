@@ -78,10 +78,11 @@ collections:
         widget: "select"
         options: ["published", "unpublished"]
         default: "unpublished"
+      - {label: "Auf Medieninformatik-Website veröffentlichen", name: "publish-mi-website", widget: "boolean", default: true, hint: "Nur wenn aktiviert, erscheint dieser Datensatz in der works.json (Feed der Medieninformatik-Website)."}
       - label: "Keywords"
         name: "keywords"
         widget: "string"
-      - {label: "Erstprüfer", name: "main-examiner", widget: "boolean", default: true}
+      - {label: "Zweitprüfer*in", name: "second-examiner", widget: "string", required: false, hint: "Nur für Bachelor- und Masterarbeiten. Praxisprojekte haben nur eine*n Prüfer*in. Erstprüfer*in ist immer Christian Noss (zentral in _config.yml gesetzt)."}
       - label: "Featured Image"
         name: "thumbnail"
         widget: "image"

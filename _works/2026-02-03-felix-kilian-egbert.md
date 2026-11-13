@@ -14,6 +14,7 @@ research-diary: false
 type: Praxisprojekt
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: IPTC-Metadaten, IPTC-IIM, Bildmetadaten, Webanwendung, Metadatenverwaltung
 main-examiner: true
 thumbnail: /assets/uploads/photo-log-felix-egbert-2026-01-28-11.jpg

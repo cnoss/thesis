@@ -7,7 +7,8 @@ slideshow: false
 research-diary: false
 type: Praxisprojekt
 status: finished
-visibility: published
+visibility: unpublished
+publish-mi-website: false
 keywords: Web, Development, KI
 main-examiner: true
 ---

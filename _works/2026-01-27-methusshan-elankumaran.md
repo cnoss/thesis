@@ -10,6 +10,7 @@ research-diary: false
 type: Masterarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Barrierefreiheit, Multi-Tenant-Architektur, WCAG, Designsystem,
   SaaS-Frontendentwicklung
 main-examiner: true

@@ -13,6 +13,7 @@ research-diary: false
 type: Praxisprojekt
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: A11ty, Web Development
 main-examiner: true
 thumbnail: /assets/uploads/ohne-titel-14.png

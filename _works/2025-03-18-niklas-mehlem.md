@@ -12,6 +12,7 @@ research-diary: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Machine Learning, Watermarks
 main-examiner: true
 thumbnail: /assets/uploads/photo-log-niklas-mehlem-2025-05-30-10.jpg

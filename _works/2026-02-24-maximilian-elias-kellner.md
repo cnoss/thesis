@@ -14,6 +14,7 @@ research-diary: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: 3D-Exploded-View, Three.js, Webvisualisierung, WYSIWYG-Editor,
   Technische Dokumentation
 main-examiner: true

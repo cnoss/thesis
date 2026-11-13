@@ -2,7 +2,7 @@
 title: Typographie im Web
 keywords: Typographie, Design, Screendesign, Frontend-Development
 layout: work
-status: in-progress
+status: false
 datum: 11.02.2023
 ---
 

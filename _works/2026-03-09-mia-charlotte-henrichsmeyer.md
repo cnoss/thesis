@@ -1,7 +1,7 @@
 ---
 layout: work-result
 author: Mia Charlotte Henrichsmeyer
-title: Barrierefreie Gestaltung von Mikrointeraktionen im Web: Identifikation typischer Barrieren und Lösungsansätze
+title: "Barrierefreie Gestaltung von Mikrointeraktionen im Web: Identifikation typischer Barrieren und Lösungsansätze"
 date: 2026-03-09
 result-pdf:
   - uploads/bachelorarbeit-mia-charlotte-henrichsmeyer-11159450.pdf
@@ -11,6 +11,7 @@ slideshow: false
 type: Bachelorarbeit
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Microinteractions, Accessibility, UX-Design, Webdevelopment
 main-examiner: true
 thumbnail: /assets/uploads/mia-henrichsmeyer-thumbnail.jpg

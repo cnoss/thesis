@@ -15,6 +15,7 @@ research-diary: false
 type: Praxisprojekt
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: KI, Leichte Sprache, Web-Anwendung
 main-examiner: true
 thumbnail: /assets/uploads/bildschirmfoto-2026-01-12-um-15.14.25.png

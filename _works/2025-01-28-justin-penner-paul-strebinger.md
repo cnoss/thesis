@@ -13,6 +13,7 @@ research-diary: false
 type: Praxisprojekt
 status: finished
 visibility: published
+publish-mi-website: true
 keywords: Barrierefreiheit im Web, Accessibility-Analyse, Chrome Extension,
   automatisierte Fehlererkennung
 main-examiner: true

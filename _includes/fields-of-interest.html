@@ -1,8 +1,18 @@
 {% assign topics = site.research-questions | where: "status", "proposal" %}
 
+{% comment %} datum ist ein String „TT.MM.JJJJ“ – für die Sortierung in JJJJMMTT umbauen, Neuestes zuerst {% endcomment %}
+{% assign sort_keys = "" | split: "" %}
+{% for topic in topics %}
+  {% assign parts = topic.datum | split: "." %}
+  {% assign sort_key = parts[2] | append: parts[1] | append: parts[0] | append: "|" | append: topic.url %}
+  {% assign sort_keys = sort_keys | push: sort_key %}
+{% endfor %}
+{% assign sort_keys = sort_keys | sort | reverse %}
 
 <ul class="topic-overview is-full-width">
-{% for topic in topics %}
+{% for sort_key in sort_keys %}
+{% assign topic_url = sort_key | split: "|" | last %}
+{% assign topic = topics | where: "url", topic_url | first %}
 
 <li class="topic-item">
     <a class="wrap" href="{{topic.url | relative_url}}">
